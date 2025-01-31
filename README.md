@@ -1,4 +1,4 @@
-## Hi there, my name is Iyiola an <a href="[https://linkedin.com/in/ahmed-oyelami](https://www.linkedin.com/in/ahmed-oyelami-a958b7b9/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4CXprnNZSWyB9KoW5o0SrQ%3D%3D)">IT Professional</a>☺</h1>
+## Hi there, my name is Iyiola an <a href="https://www.linkedin.com/in/ahmed-oyelami-a958b7b9/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4CXprnNZSWyB9KoW5o0SrQ%3D%3D">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
