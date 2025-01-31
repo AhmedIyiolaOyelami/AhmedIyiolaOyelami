@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[x]: https://x.com/iam_larmie
+[twitter]: https://x.com/iam_larmie
 [instagram]: https://www.instagram.com/larmie___
 [linkedin]: https://linkedin.com/in/ahmed-oyelami
